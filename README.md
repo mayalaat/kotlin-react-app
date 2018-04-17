@@ -5,7 +5,7 @@ This project uses the official examples and guidelines from [reactjs.org](https:
 ## Examples
 
 - A Simple Component **(src/hello)**
-- A Stateful Component
+- A Stateful Component **(src/tick)**
 - An Application
 - A Component Using External Plugins
 
